@@ -1,2 +1,2 @@
-# optirate.egy
-optirate financial platform
+# optirate
+optirate
